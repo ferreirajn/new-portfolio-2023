@@ -16,7 +16,7 @@ O objetivo deste projeto foi refatorar o meu portfólio web existente, trazendo 
 
 ## Em Desenvolvimento
 
-Este projeto ainda está em processo de desenvolvimento e algumas funcionalidades podem estar incompletas ou não implementadas. Você pode acessar a v1 desse projeto e conhecer mais sobre mim e meu trabalho clicando [aqui](arts-jessica-ferreira.vercel.app).
+Este projeto ainda está em processo de desenvolvimento e algumas funcionalidades podem estar incompletas ou não implementadas. Você pode acessar a v1 desse projeto e conhecer mais sobre mim e meu trabalho clicando [aqui](http://arts-jessica-ferreira.vercel.app).
 
 ## Recursos Adicionais:
 Além deste repositório, você pode conferir os seguintes recursos para aprender mais sobre as tecnologias utilizadas:
