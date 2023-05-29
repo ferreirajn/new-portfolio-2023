@@ -1,35 +1,24 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+## Portfólio 2023
+Este repositório contém a refatoração do meu portfólio web, agora desenvolvido utilizando Next.js, TypeScript e Styled Components. Com novas ilustrações feitas por mim, recursos e uma base sólida de tecnologias modernas.
 
-## Getting Started
+## Descrição do Projeto
+O objetivo deste projeto foi refatorar o meu portfólio web existente, trazendo melhorias significativas tanto na estrutura do código quanto nas funcionalidades e no design. Aqui estão algumas das principais características do novo portfólio:
 
-First, run the development server:
+- Next.js: Aproveitei os benefícios do Next.js, um framework React com recursos avançados de renderização do lado do servidor (SSR) e criação de páginas estáticas. Isso resulta em um desempenho aprimorado e uma experiência de usuário mais suave.
 
-```bash
-npm run dev
-# or
-yarn dev
-```
+- TypeScript: Utilizei o TypeScript para adicionar tipagem estática ao meu código, proporcionando maior segurança, melhor autocompletar e uma depuração mais eficiente. Agora, o meu código está mais robusto e menos propenso a erros.
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+- Styled Components: Adotei o Styled Components para estilizar os componentes do meu portfólio. Essa biblioteca permite escrever estilos CSS de forma mais intuitiva e modular, mantendo um escopo isolado para cada componente.
 
-You can start editing the page by modifying `pages/index.tsx`. The page auto-updates as you edit the file.
+- Novas Ilustrações: Criei e integrei novas ilustrações personalizadas para dar um toque único ao meu portfólio. As ilustrações foram cuidadosamente projetadas e desenhadas para refletir a minha personalidade e a minha abordagem criativa.
 
-[API routes](https://nextjs.org/docs/api-routes/introduction) can be accessed on [http://localhost:3000/api/hello](http://localhost:3000/api/hello). This endpoint can be edited in `pages/api/hello.ts`.
+- Recursos Aprimorados: Além de atualizar a aparência visual, adicionei novos recursos ao meu portfólio. Agora, incluo detalhes sobre minha experiência profissional, projetos destacados, habilidades técnicas e formas de entrar em contato comigo.
 
-The `pages/api` directory is mapped to `/api/*`. Files in this directory are treated as [API routes](https://nextjs.org/docs/api-routes/introduction) instead of React pages.
+- Recursos Adicionais
+Além deste repositório, você pode conferir os seguintes recursos para aprender mais sobre as tecnologias utilizadas:
 
-## Learn More
+- [Documentação oficial do Next.js] (https://nextjs.org/docs)
+- [Documentação oficial do TypeScript] (https://www.typescriptlang.org/docs)
+- [Documentação oficial do Styled Components] (https://styled-components.com/docs)
 
-To learn more about Next.js, take a look at the following resources:
-
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
-
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js/) - your feedback and contributions are welcome!
-
-## Deploy on Vercel
-
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
-
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
-# new-portfolio-2023
+Divirta-se explorando o meu novo portfólio, espero que você goste das novas ilustrações e recursos implementados. Sinta-se à vontade para entrar em contato comigo através dos meios disponíveis :) .
