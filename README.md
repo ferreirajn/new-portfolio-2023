@@ -14,8 +14,7 @@ O objetivo deste projeto foi refatorar o meu portfólio web existente, trazendo 
 
 - Recursos Aprimorados: Além de atualizar a aparência visual, adicionei novos recursos ao meu portfólio. Agora, incluo detalhes sobre minha experiência profissional, projetos destacados, habilidades técnicas e formas de entrar em contato comigo.
 
-- Recursos Adicionais
-
+## Recursos Adicionais:
 Além deste repositório, você pode conferir os seguintes recursos para aprender mais sobre as tecnologias utilizadas:
 
 - [Documentação oficial do Next.js](https://nextjs.org/docs)
