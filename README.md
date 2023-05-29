@@ -18,8 +18,8 @@ O objetivo deste projeto foi refatorar o meu portfólio web existente, trazendo 
 
 Além deste repositório, você pode conferir os seguintes recursos para aprender mais sobre as tecnologias utilizadas:
 
-[Documentação oficial do Next.js](https://nextjs.org/docs)
-[Documentação oficial do TypeScript](https://www.typescriptlang.org/docs)
-[Documentação oficial do Styled Components](https://styled-components.com/docs)
+-[Documentação oficial do Next.js](https://nextjs.org/docs)
+-[Documentação oficial do TypeScript](https://www.typescriptlang.org/docs)
+-[Documentação oficial do Styled Components](https://styled-components.com/docs)
 
 Divirta-se explorando o meu novo portfólio, espero que você goste das novas ilustrações e recursos implementados. Sinta-se à vontade para entrar em contato comigo através dos meios disponíveis :) .
