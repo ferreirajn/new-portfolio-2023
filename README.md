@@ -1,4 +1,4 @@
-## Portfólio 2023 (v2)
+## Portfólio 2023 (v2)  
 Este repositório contém a refatoração do meu portfólio web, agora desenvolvido utilizando Next.js, TypeScript e Styled Components. Com novas ilustrações feitas por mim, recursos e uma base sólida de tecnologias modernas.
 
 ## Descrição do Projeto
